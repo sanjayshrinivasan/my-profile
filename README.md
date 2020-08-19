@@ -1,2 +1,2 @@
 # my-profile
-an website featuring sanjay shrinivasan
+An website featuring Sanjay Shrinivasan
