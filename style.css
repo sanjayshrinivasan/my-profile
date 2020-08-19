@@ -1,0 +1,12 @@
+body   {
+    background-color:yellow;
+    color: blue;
+}
+
+a:hover{
+    color:red;
+}
+
+h3 {
+    color:green;
+}
