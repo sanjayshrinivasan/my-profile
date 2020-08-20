@@ -1,0 +1,10 @@
+body {
+    background-color:royalblue;
+    color:greenyellow;
+}
+a:link{
+    color:forestgreen
+}
+a:hover {
+    color:lightcoral
+}
