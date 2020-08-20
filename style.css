@@ -2,8 +2,9 @@ body   {
     background-color:yellow;
     color: blue;
 }
-a:link{
-     
+
+a  {
+    text-decoration:none
 }
 
 a:hover{
@@ -12,4 +13,12 @@ a:hover{
 
 h3 {
     color:green;
+}
+
+.black-link{
+    color: black;
+}
+
+#teach{
+    color: red;
 }
