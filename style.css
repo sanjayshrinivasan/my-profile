@@ -2,11 +2,14 @@ body   {
     background-color:yellow;
     color: blue;
 }
+a:link{
+     
+}
 
 a:hover{
     color:red;
 }
 
 h3 {
-    color:green;
+    color:royalblue;
 }
