@@ -1,24 +1,18 @@
-body   {
-    background-color:yellow;
-    color: blue;
+.feature {
+  height: 100vh;
+  background: url("./images/wall-background.jpg") no-repeat center;
+  background-size: cover;
+  text-align: center;
 }
 
-a  {
-    text-decoration:none
+.feature a img{
+    margin-top:40vh;
+   width:25%;
+   height:auto;
+   border-radius:10px;
 }
 
-a:hover{
-    color:red;
-}
-
-h3 {
-    color:green;
-}
-
-.black-link{
-    color: black;
-}
-
-#teach{
-    color: red;
+.feature h2{
+    color:white;
+    font-size: 3rem;
 }
