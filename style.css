@@ -1,12 +1,12 @@
 .feature {
   height: 100vh;
-  background: url("./images/wall-background.jpg") no-repeat center;
+  background: url("./images/wall-background.jpg") no-repeat top;
   background-size: cover;
   text-align: center;
 }
 
 .feature a img{
-    margin-top:40vh;
+    margin-top:20vh;
    width:25%;
    height:auto;
    border-radius:10px;
